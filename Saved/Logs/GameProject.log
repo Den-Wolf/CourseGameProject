@@ -14172,3 +14172,5 @@ Make sure 'BPUneatableMyhomor_C' has been compiled for  Set timer
 [2018.04.16-01.35.27:874][ 46]LogHttp: Warning: 00000261AC594100: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4C1248F7-474A-3B6D-6D67-CCB19F25A216%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=2f85cbee4822035685401a934a61d57e%7Ca478802bfbda4ed0b9513252fba908d2%7C9286c3c9-3d53-436b-8ed6-65138e30f4bf&AppEnvironment=datacollector-binary&UploadType=eteventstream')
 [2018.04.16-01.35.27:874][ 46]LogHttp: Warning: 00000261AC594100: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
 [2018.04.16-01.35.27:874][ 46]LogHttp: Warning: 00000261AC594100: libcurl info message cache 9 (Closing connection 166)
+[2018.04.16-03.22.36:975][333]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.16-03.22.36:975][333]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
