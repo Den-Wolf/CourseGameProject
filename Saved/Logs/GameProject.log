@@ -14174,3 +14174,35 @@ Make sure 'BPUneatableMyhomor_C' has been compiled for  Set timer
 [2018.04.16-01.35.27:874][ 46]LogHttp: Warning: 00000261AC594100: libcurl info message cache 9 (Closing connection 166)
 [2018.04.16-03.22.36:975][333]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2018.04.16-03.22.36:975][333]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.16-03.23.25:346][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-03.23.25:446][752]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-03.23.25:563][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-03.23.25:565][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-03.23.25:565][752]PIE: New page: PIE session: ThirdPersonExampleMap (16 апр. 2018 г., 9:23:25)
+[2018.04.16-03.23.25:566][752]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.16-03.23.25:663][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096191s)
+[2018.04.16-03.23.25:671][752]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.16-03.23.25:672][752]LogPlayLevel: PIE: World Init took: (0.009183s)
+[2018.04.16-03.23.25:672][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.106078s)
+[2018.04.16-03.23.25:802][752]LogInit: XAudio2 using 'Динамики (VIA HD Audio(Win 10))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.16-03.23.25:822][752]LogInit: FAudioDevice initialized.
+[2018.04.16-03.23.25:864][752]LogLoad: Game class is 'NewGameMode_C'
+[2018.04.16-03.23.25:882][752]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.16-06.23.25
+[2018.04.16-03.23.25:883][752]LogWorld: Bringing up level for play took: 0.016924
+[2018.04.16-03.23.25:888][752]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,006
+[2018.04.16-03.23.25:889][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-03.23.36:280][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-03.23.36:343][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.16-03.23.37:823][139]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-03.23.39:958][388]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.16-03.23.40:744][388]LogSavePackage: Save=579.69ms
+[2018.04.16-03.23.40:744][388]LogSavePackage: Moving '../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Saved/ThirdPersonExampleMap3172D386489C7314EBB1FD99F37F2FDA.tmp' to '../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.04.16-03.23.40:765][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.04.16-03.23.40:842][388]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.879
+[2018.04.16-03.23.40:923][388]LogSavePackage: Save=60.30ms
+[2018.04.16-03.23.40:923][388]LogSavePackage: Moving '../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Saved/ThirdPersonCharacterD2C5817E4BDA4E2AE59DA4BBB74F1116.tmp' to '../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.04.16-03.23.40:931][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.04.16-03.23.40:965][388]LogSavePackage: Save=18.22ms
+[2018.04.16-03.23.40:965][388]LogSavePackage: Moving '../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Saved/BPEatableWhite5135B5C54F458C50527D9CA4F49B6721.tmp' to '../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Content/MyContent/BluePrints/BPEatableWhite.uasset'
+[2018.04.16-03.23.40:973][388]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/i-wil/OneDrive/Documents/Unreal Projects/CourseGameProject/Content/MyContent/BluePrints/BPEatableWhite.uasset
+[2018.04.16-03.23.42:644][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
